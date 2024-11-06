@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDA085,100:F6D365&height=200&section=header&text=⚡%20Dumindu%20Dilanjana%20⚡&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Crafting%20Digital%20Excellence&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FDA085,100:F6D365&height=300&section=header&text=✨%20Digital%20Sorcerer%20✨&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Magic&descAlignY=60&descSize=25" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F6D365&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Cloud+Architecture+Enthusiast+%E2%98%81%EF%B8%8F;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FDA085&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=120&lines=Crafting+Digital+Experiences+with+Mystical+Precision+✨;Transforming+Ideas+into+Digital+Reality+🌟;Coding+with+the+Power+of+Ancient+Wisdom+🔮" />
 </div>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="150px" height="150px">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%">
 </div>
 
 <br>
@@ -15,100 +15,121 @@
 <div align="center">
   
 ```javascript
-⚡ QUICK FACTS ABOUT ME ⚡
+🌟 DIGITAL SORCERER'S GRIMOIRE 🌟
 ```
 
 </div>
 
 ```typescript
-const DuminduProfile = {
-    location: "Sri Lanka 🌴",
-    superpower: "Turning Coffee into Code ☕",
-    arsenal: {
-        languages: ["⚡ TypeScript", "⚡ Python", "⚡ Java"],
-        frontend: ["⚡ React", "⚡ HTML5", "⚡ CSS3"],
-        backend: ["⚡ Node.js", "⚡ Spring Boot"],
-        database: ["⚡ MySQL", "⚡ Firebase"],
-        cloud: ["⚡ GCP", "⚡ Oracle Cloud", "⚡ DigitalOcean"],
-        tools: ["⚡ Git", "⚡ Docker", "⚡ Figma"]
-    },
-    currentQuest: "Building the next big thing! 🚀",
-    motto: "Code like thunder, deploy like lightning! ⚡"
-};
+class DigitalSorcerer {
+    readonly name = "Dumindu Dilanjana";
+    readonly title = "Full Stack Sorcerer";
+    readonly location = "Enchanted Lands of Sri Lanka 🏝️";
+    
+    private _magicalArts = {
+        spells: ["🔮 TypeScript", "🌟 Python", "✨ Java"],
+        enchantments: ["💫 React", "🌠 Node.js", "⭐ Spring Boot"],
+        artifacts: ["🎭 GCP", "🔯 Docker", "✧ Figma"],
+        potions: ["🌙 MySQL", "💫 Firebase"]
+    };
+
+    castSpell(): string {
+        return "Transforming caffeine into code since the digital dawn! 🔮";
+    }
+
+    summonPower(): string {
+        return "Wielding the forces of both Frontend and Backend realms! 🌟";
+    }
+
+    get currentQuest(): string {
+        return "Crafting digital wonders that defy imagination! ✨";
+    }
+}
 ```
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400px">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<h2 align="center">⚡ Technology Arsenal ⚡</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="30px" height="30px">
+  Magical Arsenal
+  <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="30px" height="30px">
+</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="150px" height="150px">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100px">
 </div>
 
 <details>
-<summary>🌟 Frontend Mastery</summary>
+<summary>🎭 Frontend Enchantments</summary>
 <br>
 <div align="center">
   
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)
   
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100px">
+<img src="https://media.giphy.com/media/KEYMsj2LcXzfcTP5ii/giphy.gif" width="150px">
 </div>
 </details>
 
 <details>
-<summary>⚡ Backend Powers</summary>
+<summary>🔮 Backend Sorcery</summary>
 <br>
 <div align="center">
   
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&labelColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=black)
   
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100px">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150px">
 </div>
 </details>
 
 <details>
-<summary>☁️ Cloud Mastery</summary>
+<summary>✨ Cloud Mastery</summary>
 <br>
 <div align="center">
   
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white&labelColor=black)
   
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100px">
+<img src="https://media.giphy.com/media/3oKIPic2BnoVZkRla8/giphy.gif" width="150px">
 </div>
 </details>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxdds&theme=rising-sun&hide_border=true&stroke=F6D365&ring=FDA085&fire=FDA085&currStreakLabel=FDA085" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mxdds&show_icons=true&theme=great-gatsby&hide_border=true&bg_color=0D1117&title_color=F6D365&icon_color=FDA085" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxdds&theme=great-gatsby&hide_border=true&background=0D1117&ring=FDA085&fire=F6D365&currStreakLabel=F6D365" width="49%" />
 </div>
 
-<br>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-<h2 align="center">⚡ Contribution Graph ⚡</h2>
+<h2 align="center">✨ Mystical Contributions ✨</h2>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=mxdds&custom_title=Dumindu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=F6D365&line=FDA085&point=FFFFFF&area_color=FDA085&area=true&hide_border=true)
-
-<h2 align="center">🌟 Connect With Me 🌟</h2>
+![](https://github-readme-activity-graph.vercel.app/graph?username=mxdds&custom_title=Dumindu's%20Magical%20Contributions&bg_color=0D1117&color=F6D365&line=FDA085&point=FFFFFF&area_color=FDA085&area=true&hide_border=true)
 
 <div align="center">
-  <a href="https://linkedin.com/in/dumindu-dilanjana-388546297">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<h2 align="center">🌟 Magical Connections 🌟</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/dumindu-dilanjana-388546297" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black" />
   </a>
-  <a href="https://behance.net/dumindudilanjana">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
+  <a href="https://behance.net/dumindudilanjana" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=black" />
   </a>
-  <a href="https://instagram.com/dumindu_dilanjana">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  <a href="https://instagram.com/dumindu_dilanjana" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=black" />
   </a>
 </div>
 
@@ -116,10 +137,10 @@ const DuminduProfile = {
 
 <div align="center">
   <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200px">
-  <h3>⚡ Profile Views ⚡</h3>
+  <h3>✨ Enchanted Visitors ✨</h3>
   <img src="https://profile-counter.glitch.me/mxdds/count.svg" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDA085,100:F6D365&height=120&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:FDA085,100:F6D365&height=120&section=footer" width="100%">
 </div>
