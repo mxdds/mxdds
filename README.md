@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:2E1437,100:7C2AB0&height=300&section=header&text=✨%20Digital%20Sorcerer%20✨&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Magic&descAlignY=60&descSize=25" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0080,50:7928CA,100:4F46E5&height=300&section=header&text=✨%20Digital%20Sorcerer%20✨&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Magic&descAlignY=60&descSize=25" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C2AB0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=120&lines=Crafting+Digital+Experiences+with+Mystical+Precision+✨;Transforming+Ideas+into+Digital+Reality+🌟;Coding+with+the+Power+of+Ancient+Wisdom+🔮" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1200&height=120&lines=Crafting+Digital+Experiences+with+Mystical+Precision+✨;Transforming+Ideas+into+Digital+Reality+🌟;Coding+with+the+Power+of+Ancient+Wisdom+🔮" />
 </div>
 
 <div align="center">
@@ -103,8 +103,8 @@ class DigitalSorcerer {
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mxdds&show_icons=true&theme=great-gatsby&hide_border=true&bg_color=0D1117&title_color=7C2AB0&icon_color=2E1437" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxdds&theme=great-gatsby&hide_border=true&background=0D1117&ring=7C2AB0&fire=2E1437&currStreakLabel=7C2AB0" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mxdds&show_icons=true&theme=great-gatsby&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=FF0080" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxdds&theme=great-gatsby&hide_border=true&background=0D1117&ring=4F46E5&fire=FF0080&currStreakLabel=7928CA" width="49%" />
 </div>
 
 <div align="center">
@@ -113,7 +113,7 @@ class DigitalSorcerer {
 
 <h2 align="center">✨ Mystical Contributions ✨</h2>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=mxdds&custom_title=Dumindu's%20Magical%20Contributions&bg_color=0D1117&color=7C2AB0&line=2E1437&point=FFFFFF&area_color=2E1437&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=mxdds&custom_title=Dumindu's%20Magical%20Contributions&bg_color=0D1117&color=4F46E5&line=FF0080&point=FFFFFF&area_color=7928CA&area=true&hide_border=true)
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -142,5 +142,5 @@ class DigitalSorcerer {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1437,100:7C2AB0&height=150&section=footer&text=✨%20End%20of%20the%20Magical%20Journey%20✨&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,50:7928CA,100:4F46E5&height=150&section=footer&text=✨%20End%20of%20the%20Magical%20Journey%20✨&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
 </div>
