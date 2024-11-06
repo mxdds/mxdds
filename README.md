@@ -142,5 +142,5 @@ class DigitalSorcerer {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:FDA085,100:F6D365&height=120&section=footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDA085,100:F6D365&height=150&section=footer&text=✨%20End%20of%20the%20Magical%20Journey%20✨&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
 </div>
